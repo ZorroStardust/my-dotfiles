@@ -1,0 +1,6 @@
+binds {
+    Alt+Ctrl+P hotkey-overlay-title="Power Menu: Open" { spawn "dms" "ipc" "call" "powermenu" "open"; }
+    Mod+Alt+L hotkey-overlay-title="Lock Screen" { spawn "dms" "ipc" "call" "lock" "lock"; }
+    Super+Shift+S { screenshot; }
+    Mod+T hotkey-overlay-title="Open a Terminal: kitty!" { spawn "kitty"; }
+}

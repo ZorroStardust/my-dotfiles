@@ -1,0 +1,7 @@
+{
+  "weather": {
+    "provider": "met",
+    "latitude": 40.2181,
+    "longitude": 116.2313
+  }
+}
